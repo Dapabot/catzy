@@ -258,28 +258,28 @@ kahfzxy.sendMessage(from, { caption: hg, location: { jpegThumbnail: await getBuf
 		//Button 5 🗿🤙
 		const buttonsDefault = [
 			
-			{ urlButton: { displayText: `𝙶𝙸𝚃𝙷𝚄𝙱`, url : `https://github.com/@Ilhamskhyi` } },
-		{ callButton: { displayText: `𝙲𝙾𝙽𝚃𝙰𝙲𝚃`, phonenumber : `+62877710155i` } },
+			{ urlButton: { displayText: `𝙶𝙸𝚃𝙷𝚄𝙱`, url : `https://github.com/@Dapabot` } },
+		{ callButton: { displayText: `𝙲𝙾𝙽𝚃𝙰𝙲𝚃`, phonenumber : `+48729759866` } },
 			{ quickReplyButton: { displayText: `𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁`, id: `${prefix}owner` } },
 			{ quickReplyButton: { displayText: `𝙳𝙾𝙽𝙰𝚂𝙸`, id: `${prefix}donate` } },
 				{ quickReplyButton: { displayText: `𝚁𝚄𝙻𝙴𝚂`, id: `${prefix}rules` } },
 		]
 		const buttonsDefault2 = [
-			{ urlButton: { displayText: `𝙷𝙾𝚂𝚃𝙸𝙽𝙶`, url : `https://github.com/@Ilhamskhyi` } },
-				{ callButton: { displayText: `𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛`, phoneNumber : `087773710155` } },
+			{ urlButton: { displayText: `𝙷𝙾𝚂𝚃𝙸𝙽𝙶`, url : `https://github.com/@Dapabot` } },
+				{ callButton: { displayText: `𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛`, phoneNumber : `48729759866` } },
 			{ quickReplyButton: { displayText: `⎙𝙶𝙴𝚃 𝙱𝙾𝚃`, id: `${prefix}sewa` } },
 			{ quickReplyButton: { displayText: `⎙𝙼𝙴𝙽𝚄`, id: `${prefix}allmenu` } },
 		]
 		const buttonsDefault3 = [
-			{ urlButton: { displayText: `𝙶𝚁𝙾𝚄𝙿 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿`, url : `https://chat.whatsapp.com/Hw1iYmAq8Cp2Ju64T7el09` } },
+			{ urlButton: { displayText: `𝙶𝚁𝙾𝚄𝙿 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿`, url : `https://chat.whatsapp.com/BLMYFHwQkp89v8niubnSFN` } },
 			{ quickReplyButton: { displayText: `⎙𝙽𝙴𝚇𝚃 𝙰𝚂𝙼𝙰𝚄𝙻𝙷𝚄𝚂𝙽𝙰`, id: `${prefix}asmaulhusna` } },
 		]
 		const buttonsDefault4 = [
-			{ urlButton: { displayText: `𝙶𝚁𝙾𝚄𝙿 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿`, url : `https://chat.whatsapp.com/Hw1iYmAq8Cp2Ju64T7el09` } },
+			{ urlButton: { displayText: `𝙶𝚁𝙾𝚄𝙿 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿`, url : `https://chat.whatsapp.com/BLMYFHwQkp89v8niubnSFN` } },
 				{ quickReplyButton: { displayText: `⎙𝙱𝙰𝙲𝙺 𝚃𝙾 𝙼𝙴𝙽𝚄`, id: `${prefix}allmenu` } },
 		]
 		const buttonsDefault5 = [
-			{ urlButton: { displayText: `𝙶𝚁𝙾𝚄𝙿 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿`, url : `https://chat.whatsapp.com/Hw1iYmAq8Cp2Ju64T7el09` } },
+			{ urlButton: { displayText: `𝙶𝚁𝙾𝚄𝙿 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿`, url : `https://chat.whatsapp.com/BLMYFHwQkp89v8niubnSFN` } },
 		
 			{ quickReplyButton: { displayText: `⎙𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁`, id: `${prefix}owner` } },
 			{ quickReplyButton: { displayText: `⎙𝙱𝙰𝙲𝙺 𝚃𝙾 𝙼𝙴𝙽𝚄`, id: `${prefix}allmenu` } },
@@ -287,8 +287,8 @@ kahfzxy.sendMessage(from, { caption: hg, location: { jpegThumbnail: await getBuf
 		]
 		
 		const buttonsDefault7 = [
-			{ urlButton: { displayText: ` 𝚌𝚊𝚝𝚣𝚢 𝚝𝚎𝚊𝚖`, url : `https://chat.whatsapp.com/Hw1iYmAq8Cp2Ju64T7el09` } },
-			{ callButton: { displayText: `𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛`, phoneNumber : `087773710155` } },
+			{ urlButton: { displayText: ` 𝚌𝚊𝚝𝚣𝚢 𝚝𝚎𝚊𝚖`, url : `https://chat.whatsapp.com/BLMYFHwQkp89v8niubnSFN` } },
+			{ callButton: { displayText: `𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛`, phoneNumber : `48729759866` } },
 			{ quickReplyButton: { displayText: `⎙𝙱𝙰𝙲𝙺 𝚃𝙾 𝙼𝙴𝙽𝚄`, id: `${prefix}allmenu` } },
 		
         ]
@@ -417,7 +417,7 @@ ${ucapanWaktu}
 ᴡɪᴛᴀ : ${wita}
 ᴜᴘᴛɪᴍᴇ :${runtime(process.uptime())}
 
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true})
 				break
 case prefix+'next': case prefix+'leave': case prefix+"stop": {
@@ -473,7 +473,7 @@ case prefix+'menu':
 ̶↦ᴡɪᴛᴀ : ${wita}
 ↦ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
 
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 
 			break
@@ -520,49 +520,49 @@ var teks = `𝘿𝙊𝙉𝘼𝙎𝙄 𝙑𝙄𝘼 •
 			  
 			    kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./bokep/ham.mp4'), templateButtons: buttonsDefault9, footer: `̶silahkan pc owner untuk melanjutkan 
 ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 			break
 case prefix+'viral':
 var teks = ` _*klik player gif to video 18+*_`  
 			    kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./bokep/b1.mp4'), templateButtons: buttonsDefault9, footer: `̶ bokep mulu lu anj
 ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 			break
 			case prefix+'gangbang1':
 var teks = ` _*klik player gif to video 18+*_`  
 			    kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./bokep/b8.mp4'), templateButtons: buttonsDefault9, footer: `̶ gua gangbang mak lu sini
 ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 			break
 			case prefix+'gangbang2':
 var teks = ` _*klik player gif to video 18+*_`  
 			    kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./bokep/b6.mp4'), templateButtons: buttonsDefault9, footer: `̶ gua gangbang mak lu sini
 ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 			break
 			case prefix+'gangbang3':
 var teks = ` _*klik player gif to video 18+*_`  
 			    kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./bokep/b3.mp4'), templateButtons: buttonsDefault9, footer: `̶ gua gangbang mak lu sini
 ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 			break
 			case prefix+'colmek1':
 var teks = ` _*klik player gif to video 18+*_`  
 			    kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./bokep/b5.mp4'), templateButtons: buttonsDefault9, footer: `̶ uhhh sodok teros
 ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 			break
 			case prefix+'colmekvcs':
 var teks = ` _*klik player gif to video 18+*_`  
 			    kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./bokep/b4.mp4'), templateButtons: buttonsDefault9, footer: `̶ kalo vcs jangan di bisuin anj
 ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 			break
 			case prefix+'guy':
@@ -585,11 +585,11 @@ var teks = `➤ *GET BOT*
 1 𝑴𝑰𝑵𝑮𝑮𝑼 : Rp.25,0000
 1 𝑩𝑼𝑳𝑨𝑵 : Rp.50,000
 𝑷𝑬𝑹𝑴𝑨𝑵𝑬𝑵 : Rp.10,0000
-𝑼𝑵𝑻𝑼𝑲 𝑴𝑵𝒀𝑬𝑾𝑨 𝑩𝑶𝑻 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 → 𝑪𝑨𝑻𝒁𝒀 𝑩𝑶𝑻 𝑴𝑫
+𝑼𝑵𝑻𝑼𝑲 𝑴𝑵𝒀𝑬𝑾𝑨 𝑩𝑶𝑻 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 → 𝒀𝑨𝑵𝒁 𝑩𝑶𝑻 𝑴𝑫
 𝑺𝑰𝑳𝑨𝑯𝑲𝑨𝑵 𝑲𝑳𝑰𝑲 𝑩𝑼𝑻𝑻𝑶𝑵 𝑼𝑵𝑻𝑼𝑲 𝑵𝑬𝑿𝑻 𝑲𝑬 𝑶𝑾𝑵𝑬𝑹`
 kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./media/ham.mp4'), templateButtons: buttonsDefault7, footer: `silahkan pc owner untuk melanjutkan 
 ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 			break
 case prefix+'rules':
@@ -620,7 +620,7 @@ case prefix+'rules':
 
 ➤ 𝐊𝐨𝐧𝐬𝐞𝐤𝐮𝐞𝐧𝐬𝐢 𝐁𝐢𝐥𝐚 𝐌𝐞𝐥𝐚𝐧𝐠𝐠𝐚𝐫 𝐑𝐮𝐥𝐞𝐬, 𝐁𝐨𝐭 𝐀𝐤𝐚𝐧 𝐌𝐞𝐦𝐛𝐥𝐨𝐤𝐢𝐫 𝐊𝐚𝐦𝐮 𝐀𝐭𝐚𝐮 𝐌𝐞𝐧𝐠𝐞𝐥𝐮𝐚𝐫𝐤𝐚𝐧 𝐊𝐚𝐦𝐮 𝐃𝐚𝐫𝐢 𝐆𝐫𝐮𝐩`
 kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./media/skhzyi.mp4'), templateButtons: buttonsDefault7, footer: `̶ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype: 'video/mp4', gifPlayback: true}) 
 			break
 case prefix+'bokepmenu':
@@ -639,7 +639,7 @@ var teks = `𝐩𝐨𝐫𝐧𝐨 𝐢𝐧𝐝𝐨𝐡𝐨𝐭 𝐱 𝐣𝐞𝐩�
 			  
 			    kahfzxy.sendMessage(from, { caption: teks, video: fs.readFileSync('./media/oh.mp4'), templateButtons: buttonsDefault8, footer: `̶silahkan pc owner untuk melanjutkan 
 ᴜᴘᴛɪᴍᴇ : ${runtime(process.uptime())}
-⎙𝙲𝙰𝚃𝚉𝚈 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
+⎙𝚈𝙰n𝚉 𝙱𝙾𝚃 𝙼𝙳 → 𝙸𝚕𝚑𝚊𝚖 𝚜𝚔𝚑𝚢𝚣𝚒
 `, mimetype:'video/mp4', gifPlayback: true}) 
 			break
 //-++++++++++++++textprome+++++++\\
@@ -944,7 +944,7 @@ const hq = {
                          
                          "surface": 200, 
                          "message": `Halo ${pushname}! dapet salam dari owner.`, 
-                         "orderTitle": 'catzy - bot ./ilham - skhyzi', 
+                         "orderTitle": '𝚈𝙰n𝚉 - bot ./ilham - skhyzi', 
                          "sellerJid": '628126218860i@s.whatsapp.net'
                     } 
                           } 
